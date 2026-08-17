@@ -48,7 +48,8 @@ class Child extends Parent{
       p1.setName("John","Noe");
       p1.PrintName();
       Child c1=new Child("", "","");
-      c1.setName("Adini","Feriha");
+      c1.setName("Adini","Ferrari");
+      c1.setName("Druwinka", "Blink");
       c1.setmiddlename("Koydum");
       c1.printFullname();
     }
